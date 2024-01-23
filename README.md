@@ -90,3 +90,9 @@ https://www.kaggle.com/code/bryanb/survival-analysis-with-cox-model-implementati
 https://bokeh.org/
 
 https://seaborn.pydata.org/
+
+https://pypi.org/project/nfl-data-py/
+
+https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data/
+
+https://www.kaggle.com/datasets/mattop/nfl-penalties-data-2009-2022-season
